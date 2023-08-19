@@ -1,5 +1,7 @@
 # CardZone - Cashback Management System
 
+This project required to create a cashback management system that can manage cards and transactions.   
+
 - Build the app with
   - for MacOS / Linux `./gradlew clean build`
   - for Windows `gradlew.bat clean build`
